@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on Data architect at Avisid
 - 🌱 I’m currently learning Data Management like DAMA/SCRUM
-- 👯 I’m looking to collaborate on anything related to AI/Apache ecosystem
 - 🤔 I’m looking for help with SSIS or Azure
-- 💬 Ask me about Python, Js, processes or poultry language
+- 💬 Ask me about Python and Js
 - 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/ana-jalca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ana-jalca" height="15" width="15" /></a>
 </p>
