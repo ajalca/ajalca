@@ -1,7 +1,7 @@
 ### Ana Jalca, Data Architect 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajalca&label=Profile%20views&color=blue&style=flat" alt="ajalca" /> </p>
 
-- 🔭 I’m currently working on Data architect at Avisid
+- 🔭 I worked on Data architect at Avisid
 - 🌱 I’m currently learning Data Management like DAMA/SCRUM
 - 🤔 I’m looking for help with SSIS or Azure
 - 💬 Ask me about Python and Js
